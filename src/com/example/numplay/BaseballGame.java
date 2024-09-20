@@ -5,6 +5,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.util.Set;
 
+//lv01 ~ 02
 public class BaseballGame {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
